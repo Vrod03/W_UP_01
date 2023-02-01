@@ -69,10 +69,12 @@ From the numerical results we can see that the skilled players do about 3 times 
 t.test(pushups~position,data=mydata)
 ```
 
-The probability of getting a result like this is 0.000009421 if there is no difference between line players and skill doing push ups. In my opinion the line players are no where nearly skilled in doing push ups as the killed players. I reject the hypothesis in this case beacauseue there is a huge difference in the amount of push ups the skill players did compared to the line players.
+The probability of getting a result like this is 0.000009421 if there is no difference between line players and skill doing push ups. In my opinion the line players are no where nearly skilled in doing push ups as the killed players. I reject the hypothesis in this case because there is a huge difference in the amount of push ups the skill players did compared to the line players.
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+First by using the box plots I was able to analyze the data and get numerical values. These helped make the statement that whether the skill or the line team have done more push ups. The numerical results conformed that the initial statement about skill players being able to do more push ups was true. Finally by using the inferential results we rejected he hypothesis due to the given p-value. This was done through analyzing of box plots, fav stats and t-test.
 
