@@ -69,7 +69,7 @@ From the numerical results we can see that the skilled players do about 3 times 
 t.test(pushups~position,data=mydata)
 ```
 
-The probability of getting a result like this is 0.000009421 if there is no difference between line players and skill doing push ups. In my opinion the line players are no where nearly skilled in doing push ups as the killed players. I reject the hypothesis in this case beacsue there is a huge differnce in the amount of push ups the skill players did compared to the line players.
+The probability of getting a result like this is 0.000009421 if there is no difference between line players and skill doing push ups. In my opinion the line players are no where nearly skilled in doing push ups as the killed players. I reject the hypothesis in this case beacauseue there is a huge difference in the amount of push ups the skill players did compared to the line players.
 
 
 # Discussion and Conclusion
